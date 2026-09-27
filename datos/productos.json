@@ -1,0 +1,17 @@
+[
+  {
+    "id": "P1",
+    "nombre": "Hamburguesa Doble",
+    "precio": 8.50
+  },
+  {
+    "id": "P2",
+    "nombre": "Pizza Familiar",
+    "precio": 12.00
+  },
+  {
+    "id": "P3",
+    "nombre": "Gaseosa 1.5L",
+    "precio": 2.50
+  }
+]

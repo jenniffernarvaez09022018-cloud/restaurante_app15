@@ -1,0 +1,12 @@
+[
+  {
+    "id": "U1",
+    "nombre": "Carlos Pérez",
+    "rol": "Cliente"
+  },
+  {
+    "id": "U2",
+    "nombre": "Ana Gómez",
+    "rol": "Cliente"
+  }
+]
